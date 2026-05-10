@@ -1544,6 +1544,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1778386082047",
+      "title": "ELEX",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
