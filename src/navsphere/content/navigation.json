@@ -366,14 +366,6 @@
           "enabled": true
         },
         {
-          "id": "8_3_2",
-          "title": "Unsplash",
-          "href": "https://unsplash.com/",
-          "description": "免费高清图片",
-          "icon": "/assets/images/logos/unsplash.webp",
-          "enabled": true
-        },
-        {
           "id": "8_2_3",
           "title": "World Vector Logo",
           "href": "https://worldvectorlogo.com/",
@@ -518,6 +510,14 @@
               "href": "http://simplelineicons.com/",
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.webp",
+              "enabled": true
+            },
+            {
+              "id": "8_3_2",
+              "title": "Unsplash",
+              "href": "https://unsplash.com/",
+              "description": "免费高清图片",
+              "icon": "/assets/images/logos/unsplash.webp",
               "enabled": true
             }
           ]
