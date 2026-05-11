@@ -38,6 +38,14 @@
           "description": "访问 elex-work.feishu.cn",
           "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/microsoft-excel-2013.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1778468567348_637u4ev1u",
+          "title": "智明星通Ai系统",
+          "href": "https://ai.elex-tech.com",
+          "description": "访问 ai.elex-tech.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai.elex-tech.com",
+          "enabled": true
         }
       ],
       "subCategories": []
