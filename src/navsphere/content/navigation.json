@@ -112,6 +112,14 @@
           "description": "访问 www.cgjoy.com",
           "icon": "/assets/favicon_1778480082423.png",
           "enabled": true
+        },
+        {
+          "id": "site_1778467902946_6srzsg8i5",
+          "title": "免费图标与标志下载",
+          "href": "https://dashboardicons.com/",
+          "description": "A collection of 5975 curated icons and logos for services, applications and tools, designed specifically for dashboards and app directories.",
+          "icon": "/assets/favicon_1778467838984.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -216,14 +224,6 @@
               "href": "http://simplelineicons.com/",
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.webp",
-              "enabled": true
-            },
-            {
-              "id": "site_1778467902946_6srzsg8i5",
-              "title": "免费图标与标志下载",
-              "href": "https://dashboardicons.com/",
-              "description": "A collection of 5975 curated icons and logos for services, applications and tools, designed specifically for dashboards and app directories.",
-              "icon": "/assets/favicon_1778467838984.ico",
               "enabled": true
             }
           ]
