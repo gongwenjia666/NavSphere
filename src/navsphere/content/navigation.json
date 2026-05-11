@@ -150,7 +150,7 @@
     },
     {
       "id": "1",
-      "title": "常用推荐",
+      "title": "网站推荐",
       "icon": "Star",
       "items": [
         {
@@ -363,7 +363,7 @@
         }
       ],
       "subCategories": [],
-      "description": "",
+      "description": "其实就是个回收站",
       "enabled": true
     },
     {
