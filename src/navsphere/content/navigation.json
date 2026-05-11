@@ -43,6 +43,15 @@
       "subCategories": []
     },
     {
+      "id": "1778464777348",
+      "title": "云端硬盘",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -221,15 +230,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1778464777348",
-      "title": "云端硬盘",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1",
