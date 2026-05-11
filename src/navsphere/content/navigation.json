@@ -55,7 +55,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1778464854310_fgif9qd95",
+          "title": "光鸭云盘",
+          "href": "https://www.guangyapan.com/",
+          "description": "",
+          "icon": "/assets/favicon_1778464842251.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
