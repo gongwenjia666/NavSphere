@@ -138,7 +138,7 @@
     },
     {
       "id": "1",
-      "title": "网站推荐",
+      "title": "Bak网站推荐",
       "icon": "Star",
       "items": [
         {
@@ -368,7 +368,7 @@
       ],
       "subCategories": [],
       "description": "其实就是个回收站",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "8",
