@@ -1556,6 +1556,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1778505154652",
+      "title": "素材资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
