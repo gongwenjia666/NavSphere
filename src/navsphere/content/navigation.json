@@ -1362,7 +1362,16 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1778467902946_6srzsg8i5",
+          "title": "免费图标与标志下载",
+          "href": "https://dashboardicons.com/",
+          "description": "A collection of 5975 curated icons and logos for services, applications and tools, designed specifically for dashboards and app directories.",
+          "icon": "/assets/favicon_1778467838984.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
