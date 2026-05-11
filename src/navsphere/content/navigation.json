@@ -80,6 +80,14 @@
           "description": "色彩搭配",
           "icon": "/assets/images/logos/colorhunt.webp",
           "enabled": true
+        },
+        {
+          "id": "5_1",
+          "title": "Figma",
+          "href": "https://www.figma.com/",
+          "description": "在线UI设计工具",
+          "icon": "/assets/images/logos/figma.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -132,16 +140,7 @@
           "href": "#界面设计",
           "icon": "Folder",
           "description": "",
-          "items": [
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.webp",
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         },
         {
