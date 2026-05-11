@@ -1543,7 +1543,7 @@
       "title": "开源项目",
       "icon": "Code",
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "items": [],
       "subCategories": [
         {
