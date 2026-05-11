@@ -56,13 +56,6 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "2",
-      "title": "常用工具",
-      "icon": "Laptop",
       "items": [
         {
           "id": "site_1778464854310_fgif9qd95",
@@ -73,6 +66,13 @@
           "enabled": true
         }
       ],
+      "subCategories": []
+    },
+    {
+      "id": "2",
+      "title": "常用工具",
+      "icon": "Laptop",
+      "items": [],
       "subCategories": [
         {
           "id": "3",
