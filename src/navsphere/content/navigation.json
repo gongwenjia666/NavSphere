@@ -104,7 +104,16 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1778480100957_283mf77b5",
+          "title": "CGJOY",
+          "href": "https://www.cgjoy.com/",
+          "description": "访问 www.cgjoy.com",
+          "icon": "/assets/favicon_1778480082423.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
