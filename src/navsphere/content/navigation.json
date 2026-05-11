@@ -30,6 +30,14 @@
           "description": "访问 elex-work.feishu.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=elex-work.feishu.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1778463764558_kl2nimv7t",
+          "title": "LDS美术资源提交表",
+          "href": "https://elex-work.feishu.cn/base/ODl1bLZHsaU9VDsdBKCcQ4CBn1d?table=tblD6yh9H7Qlk7Kw&view=vewtGeFTlE",
+          "description": "",
+          "icon": "/assets/favicon_1778463742326.png",
+          "enabled": true
         }
       ],
       "subCategories": []
