@@ -101,6 +101,15 @@
       "enabled": true
     },
     {
+      "id": "1778505154652",
+      "title": "素材资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "素材资源Bak",
       "icon": "linecons-thumbs-up",
@@ -1556,15 +1565,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1778505154652",
-      "title": "素材资源",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
