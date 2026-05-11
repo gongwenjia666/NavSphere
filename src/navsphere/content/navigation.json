@@ -366,14 +366,6 @@
           "enabled": true
         },
         {
-          "id": "8_2_3",
-          "title": "World Vector Logo",
-          "href": "https://worldvectorlogo.com/",
-          "description": "Brand logos free to download",
-          "icon": "/assets/images/logos/worldvectorlogo.webp",
-          "enabled": true
-        },
-        {
           "id": "8_2_2",
           "title": "iOS Icon Gallery",
           "href": "http://iosicongallery.com/",
@@ -543,6 +535,14 @@
               "href": "http://instantlogosearch.com/",
               "description": "Search & download thousands of logos instantly",
               "icon": "/assets/images/logos/InstantLogoSearch.webp",
+              "enabled": true
+            },
+            {
+              "id": "8_2_3",
+              "title": "World Vector Logo",
+              "href": "https://worldvectorlogo.com/",
+              "description": "Brand logos free to download",
+              "icon": "/assets/images/logos/worldvectorlogo.webp",
               "enabled": true
             }
           ]
