@@ -364,14 +364,6 @@
           "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
           "icon": "/assets/favicon_1761725100238.webp",
           "enabled": true
-        },
-        {
-          "id": "8_2_2",
-          "title": "iOS Icon Gallery",
-          "href": "http://iosicongallery.com/",
-          "description": "Showcasing beautiful icon designs from the iOS App Store",
-          "icon": "/assets/images/logos/iosicongallery.webp",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -510,6 +502,14 @@
               "href": "https://unsplash.com/",
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.webp",
+              "enabled": true
+            },
+            {
+              "id": "8_2_2",
+              "title": "iOS Icon Gallery",
+              "href": "http://iosicongallery.com/",
+              "description": "Showcasing beautiful icon designs from the iOS App Store",
+              "icon": "/assets/images/logos/iosicongallery.webp",
               "enabled": true
             }
           ]
