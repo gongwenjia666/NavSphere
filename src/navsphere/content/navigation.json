@@ -244,14 +244,6 @@
               "enabled": true
             },
             {
-              "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "Showcasing beautiful icon designs from the iOS App Store",
-              "icon": "/assets/images/logos/iosicongallery.webp",
-              "enabled": true
-            },
-            {
               "id": "8_2_4",
               "title": "Instant Logo Search",
               "href": "http://instantlogosearch.com/",
@@ -540,6 +532,14 @@
           "href": "https://worldvectorlogo.com/",
           "description": "Brand logos free to download",
           "icon": "/assets/images/logos/worldvectorlogo.webp",
+          "enabled": true
+        },
+        {
+          "id": "8_2_2",
+          "title": "iOS Icon Gallery",
+          "href": "http://iosicongallery.com/",
+          "description": "Showcasing beautiful icon designs from the iOS App Store",
+          "icon": "/assets/images/logos/iosicongallery.webp",
           "enabled": true
         }
       ],
