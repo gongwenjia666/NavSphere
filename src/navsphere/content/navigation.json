@@ -72,7 +72,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "7_1",
+          "title": "Color Hunt",
+          "href": "https://colorhunt.co/",
+          "description": "色彩搭配",
+          "icon": "/assets/images/logos/colorhunt.webp",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
@@ -150,16 +159,7 @@
           "href": "#在线配色",
           "icon": "Book",
           "description": "",
-          "items": [
-            {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.webp",
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         }
       ],
