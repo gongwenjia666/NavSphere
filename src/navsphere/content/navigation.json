@@ -107,14 +107,6 @@
           "description": "",
           "items": [
             {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.webp",
-              "enabled": true
-            },
-            {
               "id": "3_4",
               "title": "SQL格式化",
               "href": "https://www.dpriver.com/pp/sqlformat.htm",
@@ -360,6 +352,14 @@
           "href": "https://framer.com/",
           "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
           "icon": "/assets/images/logos/framer.webp",
+          "enabled": true
+        },
+        {
+          "id": "3_2",
+          "title": "JSON Editor Online",
+          "href": "https://jsoneditoronline.org/",
+          "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
+          "icon": "/assets/images/logos/json.webp",
           "enabled": true
         }
       ],
