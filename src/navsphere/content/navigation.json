@@ -102,7 +102,7 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
+      "title": "素材资源Bak",
       "icon": "linecons-thumbs-up",
       "items": [
         {
@@ -261,7 +261,9 @@
           "description": "",
           "items": []
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     },
     {
       "id": "1778464777348",
