@@ -131,24 +131,6 @@
       "enabled": true
     },
     {
-      "id": "1778464777348",
-      "title": "云端硬盘",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1778464854310_fgif9qd95",
-          "title": "光鸭云盘",
-          "href": "https://www.guangyapan.com/",
-          "description": "",
-          "icon": "/assets/favicon_1778464842251.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
@@ -334,6 +316,24 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1778464777348",
+      "title": "云端硬盘",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1778464854310_fgif9qd95",
+          "title": "光鸭云盘",
+          "href": "https://www.guangyapan.com/",
+          "description": "",
+          "icon": "/assets/favicon_1778464842251.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     },
     {
       "id": "9",
