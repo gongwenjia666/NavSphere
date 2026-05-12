@@ -94,6 +94,14 @@
           "description": "Seedance 2.0 视频生成模型现已全面接入豆包，现在登录即可免费使用！豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题",
           "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/doubao_avatar.png",
           "enabled": true
+        },
+        {
+          "id": "site_1778586649514_uy6aw4idh",
+          "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+          "href": "https://github.com/",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+          "icon": "/assets/favicon_1778586643524.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
