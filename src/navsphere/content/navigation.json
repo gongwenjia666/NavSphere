@@ -114,6 +114,14 @@
           "description": "A collection of 5975 curated icons and logos for services, applications and tools, designed specifically for dashboards and app directories.",
           "icon": "/assets/favicon_1778467838984.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1778480100957_283mf77b5",
+          "title": "CGJOY",
+          "href": "https://www.cgjoy.com/",
+          "description": "访问 www.cgjoy.com",
+          "icon": "/assets/favicon_1778480082423.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -375,14 +383,6 @@
       "title": "Bak素材资源",
       "icon": "linecons-thumbs-up",
       "items": [
-        {
-          "id": "site_1778480100957_283mf77b5",
-          "title": "CGJOY",
-          "href": "https://www.cgjoy.com/",
-          "description": "访问 www.cgjoy.com",
-          "icon": "/assets/favicon_1778480082423.png",
-          "enabled": true
-        },
         {
           "id": "8_3_1",
           "title": "Freepik",
