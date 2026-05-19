@@ -54,6 +54,14 @@
           "description": "访问 zhongtai-ai.elexapp.com",
           "icon": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-webp@latest/light/ai360-color.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1779179923209_rqxf09eyq",
+          "title": "AI自动去背景",
+          "href": "http://zhongtai-ai.elexapp.com/api/ai-rembg/ui",
+          "description": "访问 zhongtai-ai.elexapp.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zhongtai-ai.elexapp.com",
+          "enabled": true
         }
       ],
       "subCategories": []
