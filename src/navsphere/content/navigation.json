@@ -46,6 +46,14 @@
           "description": "访问 ai.elex-tech.com",
           "icon": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-webp@latest/light/ai360-color.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1779157976758_vkyrqk12f",
+          "title": "自动拆图补图AI",
+          "href": "http://zhongtai-ai.elexapp.com/api/see-through/ui",
+          "description": "访问 zhongtai-ai.elexapp.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=zhongtai-ai.elexapp.com",
+          "enabled": true
         }
       ],
       "subCategories": []
