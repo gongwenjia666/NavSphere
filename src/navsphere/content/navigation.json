@@ -118,6 +118,14 @@
           "description": "代码托管平台",
           "icon": "/assets/favicon_1778586643524.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779257645104_ei4i3ze2e",
+          "title": "Holopix",
+          "href": "https://holopix.cn/",
+          "description": "Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案",
+          "icon": "/assets/favicon_1779257606624.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
