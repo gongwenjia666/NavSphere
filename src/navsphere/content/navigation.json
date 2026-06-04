@@ -126,6 +126,14 @@
           "description": "Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案",
           "icon": "/assets/favicon_1779257606624.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780541771046_ivinu9xa3",
+          "title": "Chatgpt",
+          "href": "https://chatgpt.com/",
+          "description": "访问 chatgpt.com",
+          "icon": "/assets/favicon_1780541755478.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
