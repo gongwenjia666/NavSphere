@@ -1606,6 +1606,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1783068521915",
+      "title": "个人导航",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
