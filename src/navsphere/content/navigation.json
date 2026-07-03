@@ -193,10 +193,10 @@
       "items": [
         {
           "id": "site_1783068539475_i09vyt75m",
-          "title": "老宫图床",
-          "href": "kvault.gongwenjia.dpdns.org",
+          "title": "K-Vault | 免费文件托管服务",
+          "href": "https://kvault.gongwenjia.dpdns.org",
           "description": "",
-          "icon": "",
+          "icon": "/assets/favicon_1783070565901.ico",
           "enabled": true
         },
         {
