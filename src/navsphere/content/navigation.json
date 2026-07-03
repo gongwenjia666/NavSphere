@@ -1613,7 +1613,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783068539475_i09vyt75m",
+          "title": "老宫图床",
+          "href": "kvault.gongwenjia.dpdns.org",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
