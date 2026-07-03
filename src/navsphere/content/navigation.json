@@ -185,6 +185,32 @@
       "subCategories": []
     },
     {
+      "id": "1783068521915",
+      "title": "个人导航",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1783068539475_i09vyt75m",
+          "title": "老宫图床",
+          "href": "kvault.gongwenjia.dpdns.org",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1783068555904_koj4v68j9",
+          "title": "老宫博客",
+          "href": "blog.gongwenjia.dpdns.org",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "Bak网站推荐",
       "icon": "Star",
@@ -1606,32 +1632,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1783068521915",
-      "title": "个人导航",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1783068539475_i09vyt75m",
-          "title": "老宫图床",
-          "href": "kvault.gongwenjia.dpdns.org",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1783068555904_koj4v68j9",
-          "title": "老宫博客",
-          "href": "blog.gongwenjia.dpdns.org",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
